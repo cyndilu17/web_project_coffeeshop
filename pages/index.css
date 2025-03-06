@@ -3,7 +3,7 @@
   max-width: 1600px;
   margin: auto;
   color: #000000;
-  font-family: "inter" Arial, Helvetica, sans-serif;
+  font-family: "inter", serif;
   font-size: 16px;
   line-height: 20px;
 }
@@ -46,7 +46,7 @@
 }
 
 .nav__link {
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -58,7 +58,7 @@
   position: relative;
   max-width: 709px;
   margin-left: 80px;
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: 500;
   font-size: 58px;
@@ -68,10 +68,9 @@
 
 .span-accent {
   display: flex;
-  font-family: "Noto Serif", "Times New Roman", Times, serif;
+  font-family: "Noto Serif", Times, serif;
   font-style: italic;
   color: #2f80ed;
-  font-family: "Noto Serif";
   font-weight: normal;
   font-size: 58px;
   line-height: 72px;
@@ -81,7 +80,7 @@
   margin-top: 28px;
   margin-left: 80px;
   max-width: 683px;
-  font-family: "Noto Serif", "Times New Roman", Times, serif;
+  font-family: "Noto Serif", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -109,7 +108,7 @@
 }
 
 .header__paragraph {
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -149,14 +148,14 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", serif;
 }
 
 .recipes__subtitle {
   margin-left: 80px;
   max-width: 438px;
   padding-top: 24px;
-  font-family: "Noto Serif" "Times New Roman", Times, serif;
+  font-family: "Noto Serif", Times, serif;
   font-size: 20px;
   line-height: 30px;
 }
@@ -189,7 +188,7 @@
   justify-content: space-between;
   align-items: center;
   height: 20px;
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
